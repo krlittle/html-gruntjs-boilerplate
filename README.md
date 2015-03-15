@@ -7,6 +7,7 @@ Requirements:
      <br><i>(<b>NOTE:</b> Node's stable versions are even numbers; odd numbers are for development/unstable versions)</i>
    - <a href="https://www.ruby-lang.org/">Ruby 1.9+</a>
    - <a href="https://github.com/oneclick/rubyinstaller/wiki/Development-Kit">Ruby Development Kit</a>
+   - <a href="http://git-scm.com/">Git</a>
  
  - The following command line interfaces need to be installed via npm:
    <br><i>(<b>NOTE:</b> remember to close and re-open your terminal before making use of these CLIs)</i>
