@@ -34,11 +34,11 @@ module.exports = function (grunt) {
                 livereload: true
             },
             scripts: {
-                files: ['build/js/*.js'],
+                files: ['src/js/*.js'],
                 tasks: ['uglify']
             }, //watch:scripts
             stylesheets: {
-                files: ['build/scss/*.scss'],
+                files: ['src/scss/*.scss'],
                 tasks: ['sass']
             }, //watch:stylesheets
             html: {
