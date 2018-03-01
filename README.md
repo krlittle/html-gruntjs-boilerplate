@@ -1,4 +1,4 @@
-# web-boilerplate
+# html-gruntjs-boilerplate
 HTML boilerplate with Sass &amp; Grunt
 
 Requirements:
